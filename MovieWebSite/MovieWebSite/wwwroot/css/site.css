@@ -61,7 +61,9 @@ html {
 }
 
 body {
-    background-color: rgb(128, 128, 128);
+    background-image: url(https://i.pinimg.com/originals/47/5b/1c/475b1c9e5bd2a8c8c1b53d48ef112326.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     /* Margin bottom by footer height */
     margin-bottom: 60px;
 }
